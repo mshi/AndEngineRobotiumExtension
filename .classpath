@@ -4,6 +4,6 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" path="lib/robotium-solo-3.1.jar" sourcepath="/Users/ngramlich/Workspace/gdk/Robotium/robotium-solo/src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndEngine"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
